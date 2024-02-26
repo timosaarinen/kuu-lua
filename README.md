@@ -1,3 +1,5 @@
+DEPRECATED: Unless at some point will come back to this for some reason, this project is now cancelled. This step was not taken lightly, as Lua is a beautiful and minimalistic language - and would have been ready to use.
+
 # kuu-lua
 
 * *Why?* ..Need it myself, open-sourced in case if someone else needs it (MIT license)
